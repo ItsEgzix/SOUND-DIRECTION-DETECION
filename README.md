@@ -1,3 +1,10 @@
+•	Setup the electrical circuit of the system that comprises sound sensors, ultrasonic sensors, Arduino Uno, A4988 driver, stepper motor, Liquid Crystal Display (LCD), wiring tools, breadboard, jumper wires, and a 9V power supply.
+•	Programming the Device with Ardiono utilizing C++
+•	Winning project for BIT creativity competition.
+
+
+
+
 # System Implementation Overview
 
 ## Block Diagram
